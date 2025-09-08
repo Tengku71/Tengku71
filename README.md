@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Your Name]
 
-![Profile Greeting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Profile Greeting]([https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV1MWFkc3N0eWE0ZGkwYWV5OTQ1OHZvNWZ5NzNtaXdsdDl6azl3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWg7M1VlT101W/giphy.gif))
 
 ### 🌱 About Me
 - 🔭 Currently working on: [Your Project/Job]  
