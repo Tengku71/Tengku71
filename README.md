@@ -1,22 +1,35 @@
 # Hi there 👋, I'm [Your Name]
 
+![Profile Greeting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 ### 🌱 About Me
-- 🔭 Currently working on: [Your Project/Job]
-- 🌱 Learning: [Tech or Skill]
-- 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: [Your Expertise]
+- 🔭 Currently working on: [Your Project/Job]  
+- 🌱 Learning: [Tech or Skill]  
+- 👯 Looking to collaborate on: Open source projects  
+- 💬 Ask me about: [Your Expertise]  
 - ⚡ Fun fact: [A fun fact about you]
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p>
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER/)
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER/">
+    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+![Profile Wave](https://raw.githubusercontent.com/your-username/your-username/main/wave.gif)
