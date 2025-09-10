@@ -3,11 +3,7 @@
 ![Profile Greeting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV1MWFkc3N0eWE0ZGkwYWV5OTQ1OHZvNWZ5NzNtaXdsdDl6azl3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWg7M1VlT101W/giphy.gif)
 
 ### 🌱 About Me
-- 🔭 Currently working on: [Your Project/Job]  
-- 🌱 Learning: [Tech or Skill]  
-- 👯 Looking to collaborate on: Open source projects  
-- 💬 Ask me about: [Your Expertise]  
-- ⚡ Fun fact: [A fun fact about you]
+
 
 ### 🛠️ Tech Stack
 <p>
